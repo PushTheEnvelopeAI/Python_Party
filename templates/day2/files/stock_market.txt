@@ -1,0 +1,7 @@
+AAPL | 33.56
+TSLA | -2.35
+MSFT | 3.56
+ADBE | -23.54
+AMC | 1.35
+GOOG | 3.42
+META | -43.12
