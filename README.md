@@ -3,12 +3,11 @@
 <!-- PROJECT LOGO -->
 <div style="text-align: center;">
     <h2>Python Party</h2>
-    <img src="images/bootcamp.PNG" alt="3-Day Python Bootcamp Flyer" width=700 height=500>
+    <img src="images/bootcamp.png" alt="3-Day Python Bootcamp Flyer" width=700 height=500>
 </div>
 
 This is a repository dedicated to learning how to code in Python for beginners. No experience is necessary to start these lessons. Due to the truncated timeline, this bootcamp will cover only the basics of Python coding. For a more in depth look at Python, additional references and focuse areas are given that the end of the class.
 
-</a>
 
 <!-- TABLE OF CONTENTS -->
 <details>
@@ -43,7 +42,7 @@ This is a repository dedicated to learning how to code in Python for beginners. 
 
 <div style="text-align: center;">
     <a href="https://www.youtube.com/channel/UCjtoiXWlWt0VWoeN7tEjUbg">
-        <img src="images/logo.PNG" alt="PushTheEnvelope Logo" width=200 height=200>
+        <img src="images/logo.png" alt="PushTheEnvelope Logo" width=200 height=200>
     </a>
     <h2>Push The Envelope</h2>
     <br>
@@ -109,9 +108,9 @@ Option 2: Without using Git
 
 Below is the intended timeline for the Python Bootcamp course using the individual notebooks as guides
 
-<img src="images/day1.PNG" alt="Day 1 Bootcamp Schedule" width=500 height=500>
-<img src="images/day2.PNG" alt="Day 2 Bootcamp Schedule" width=500 height=500>
-<img src="images/day3.PNG" alt="Day 3 Bootcamp Schedule" width=500 height=500>
+<img src="images/day1.png" alt="Day 1 Bootcamp Schedule" width=500 height=500>
+<img src="images/day2.png" alt="Day 2 Bootcamp Schedule" width=500 height=500>
+<img src="images/day3.png" alt="Day 3 Bootcamp Schedule" width=500 height=500>
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
