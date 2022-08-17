@@ -42,7 +42,7 @@ This is a repository dedicated to learning how to code in Python for beginners. 
 
 <div style="text-align: center;">
     <a href="https://www.youtube.com/channel/UCjtoiXWlWt0VWoeN7tEjUbg">
-        <img src="images/logo.PNG" alt="PushTheEnvelope Logo" width=200 height=200>
+        <img src="images/logo.png" alt="PushTheEnvelope Logo" width=200 height=200>
     </a>
     <h2>Push The Envelope</h2>
     <br>
